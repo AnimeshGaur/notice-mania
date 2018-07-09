@@ -18,7 +18,7 @@ header('location:login.php');
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Online Notice Board Admin Dashboard</title>
+    <title>Admin Dashboard</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -178,4 +178,5 @@ header('location:login.php');
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../js/ie10-viewport-bug-workaround.js"></script>
   </body>
+	<fotter><marquie> developed by animesh gaur</marquie></footer>
 </html>
