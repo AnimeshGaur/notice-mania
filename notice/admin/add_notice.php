@@ -32,7 +32,7 @@ mysqli_query($conn,"insert into notice values('','$v','$sub','$details',now())")
 	<div class="row">
 		<div class="col-sm-4">Enter Subject</div>
 		<div class="col-sm-5">
-		<input type="text" name="sub" class="form-control"/></div>
+		<input type="text" name="sub" class="form-control" required/></div>
 	</div>
 	
 	
@@ -44,7 +44,7 @@ mysqli_query($conn,"insert into notice values('','$v','$sub','$details',now())")
 	<div class="row">
 		<div class="col-sm-4">Enter Details</div>
 		<div class="col-sm-5">
-		<textarea name="details" class="form-control"></textarea></div>
+		<textarea name="details" class="form-control" required></textarea></div>
 	</div>
 	
 	
