@@ -4,7 +4,7 @@ session_start();
  ?>
 <html>
 	<head>
-		<title>Online Notice Board</title>
+		<title>Animesh gaur</title>
 		<link rel="stylesheet" href="css/bootstrap.css"/>
 		<script src="js/jquery_library.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -115,11 +115,7 @@ session_start();
 		}
 		else
 		{
-		echo "<h2></h2>
-		Welcome 
-		Welcome user Welcome user Welcome user Welcome user Welcome user Welcome user user 
-				Welcome 
-		Welcome user Welcome user Welcome user Welcome user Welcome user Welcome user user";
+		echo "<h2>Welcome </h2>";
 		}
 		?>
 		
@@ -157,7 +153,7 @@ session_start();
   <div class="container">
   
   <ul class="nav navbar-nav navbar-left">
-    <li><a href="http://www.phptpoint.com/"> Developed by Animesh gaur </a></li>
+    <li><a href="http://www.animeshgaur98.firebaseapp.com/"> Developed by Animesh gaur </a></li>
       
 	</ul>
 
